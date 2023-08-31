@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/mautrix/googlechat/archive/refs/tags/v0.3.0.tar.gz
-SOURCE_SUM=82c2b3c5acea8a85b0753ccb9c67576b42680f37312832fee537492a9363814e
+SOURCE_URL=https://github.com/mautrix/googlechat/archive/refs/tags/v0.5.0.tar.gz
+SOURCE_SUM=b6bbb0df7d6f1b889be8493a62b514e7f829b10bce43de2a27b2dbc9358b8498
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
